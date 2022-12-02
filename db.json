@@ -1,0 +1,22 @@
+{
+  "students": [
+    {
+      "age": 24,
+      "name": "Daniel",
+      "city": "Fortaleza",
+      "id": "71986007-4f88-4164-84f5-cd37c39d8f37"
+    },
+    {
+      "age": 25,
+      "name": "Igor",
+      "city": "Niterói",
+      "id": "7350ab2a-5d00-4470-aa52-2650b7b3b9e3"
+    },
+    {
+      "age": 25,
+      "name": "Felipe",
+      "city": "Fortaleza",
+      "id": "10d8b763-a89d-4b49-a0af-55adcde603f9"
+    }
+  ]
+}
